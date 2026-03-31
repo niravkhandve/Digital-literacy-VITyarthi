@@ -34,5 +34,5 @@ This repository contains my Digital Literacy Portfolio, created for the CSE0001 
 * **Summary:** A case study on a specific cybercrime threat and an actionable 'Stay Safe Online' prevention checklist.
 
 ## 📄 Project Report
-* **Link:** [View Full Project Report](./report/Project_Report.pdf)
+* **Link:** [Project_Report.pdf](https://github.com/user-attachments/files/26384686/Project_Report.pdf)  
 * **Summary:** The comprehensive written report documenting the work, observations, and reflections for all five tasks.
